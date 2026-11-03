@@ -1,0 +1,45 @@
+## 2. Our preparation roadmap
+
+1. Phase 1 – Java programming
+   - OOP concepts
+   - Classes and objects
+   - Inheritance, polymorphism and abstraction
+   - Interfaces and exception handling
+   - Collections and multithreading
+2. Phase 2 – Android fundamentals
+   - Android architecture
+   - Activities and Activity lifecycle
+   - Intents and navigation
+   - XML layouts and UI components
+   - Permissions and background services
+3. Phase 3 – Kotlin
+   - Kotlin vs Java
+   - Variables, functions and classes
+   - Null safety
+   - Data classes and extension functions
+   - Coroutines and Flow
+4. Phase 4 – Advanced Android
+   - MVVM architecture
+   - ViewModel and LiveData
+   - Room database
+   - Retrofit and API integration
+   - Jetpack Navigation
+5. Phase 5 – Maps and GPS
+   - GPS and location tracking
+   - Google Maps SDK
+   - Markers and polylines
+   - Geocoding and reverse geocoding
+   - Navigation and route optimisation
+6. Phase 6 – Practical development
+   - Build a GPS-based Android application
+   - Connect it to a REST API
+   - Store trip history locally
+   - Handle internet and location permissions
+7. Phase 7 – Interview simulation
+   - Java coding questions
+   - Android technical questions
+   - Project explanation
+   - Scenario-based questions
+   - HR questions and mock interview
+
+## all this in one place where i can learn any youtube video about this
